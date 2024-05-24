@@ -18,3 +18,10 @@ document.getElementById('generate').addEventListener('click', function() {
 
     document.getElementById('password').value = password;
 });
+
+document.getElementById('copy').addEventListener('click', function() {
+    var passwordInput = document.getElementById('password');
+    passwordInput.select();
+    document.execCommand('copy');
+    alert('Password copied to clipboard!');
+});
