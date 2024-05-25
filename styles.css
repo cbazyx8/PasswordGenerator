@@ -91,11 +91,11 @@ input[type="text"] {
 .footer {
     text-align: center;
     font-size: 14px;
-    color: #666;
+    color: #FFFAE6;
     margin-top: 20px;
 }
 
 .developer {
     font-weight: bold;
-    color: #181a1d; /* Blue color */
+    color: #FFA62F;
 }
