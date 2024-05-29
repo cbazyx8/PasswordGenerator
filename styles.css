@@ -63,7 +63,7 @@ label:before {
 }
 
 input[type="checkbox"]:checked + label:before {
-    background-color: #007bff;
+    background-color: #FFBF00;
 }
 
 button {
