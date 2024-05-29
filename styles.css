@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #FFBF00;
+    background-color: #686D76;
     margin: 0;
     padding: 0;
 }
@@ -67,8 +67,8 @@ input[type="checkbox"]:checked + label:before {
 }
 
 button {
-    background-color: #00bcd4;
-    color: white;
+    background-color: #FFBF00;
+    color: black;
     cursor: pointer;
 }
 
